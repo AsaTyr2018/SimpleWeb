@@ -1,8 +1,6 @@
 # SimpleWeb for LoRA Files
 Simple Web Scripts for Simple Webs. No Mysql required.
 
-Live-Preview: [https://loraspace.lenz-host.de/](https://loraspace.lenz-host.de/)
-
 # DL-Script
 Simple Scripts for LoRA Safetension Files (dl-script)
 ![grafik](https://github.com/AsaTyr2018/SimpleWeb/assets/43162495/d46e34c4-4933-466a-8de5-49162b066388)
