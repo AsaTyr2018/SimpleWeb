@@ -12,6 +12,7 @@ Simple Web Scripts for Simple Webs. No Mysql required.
 Simple Scripts for LoRA Safetension Files (dl-script)
 ![grafik](https://github.com/AsaTyr2018/SimpleWeb/assets/43162495/d46e34c4-4933-466a-8de5-49162b066388)
 
+Demo: https://test.lenz-host.de/dl-script/
 
 Just place the Loras and the Preview Images in the content_dl directory. The Script index them automaticly.
 
@@ -19,6 +20,8 @@ Just place the Loras and the Preview Images in the content_dl directory. The Scr
 Same as the DL-Script. This is a simple Gallery Script. It reads out the content of content_gl.
 Folders within content_gl are used as categories and the images inside gets randomly selected as thumbnail for the categorie.
 clicking on the image opens the lightbox. Clicking on the Titel opens the folder/Gallery itself.
+
+Demo: https://test.lenz-host.de/gl-script/
 
 ![grafik](https://github.com/AsaTyr2018/SimpleWeb/assets/43162495/0f4504e4-0285-4317-8a05-f737308eefd9)
 
@@ -51,6 +54,7 @@ Styling & Interactivity:
 
 The script includes CSS for styling the gallery and JavaScript for interactive elements, such as the modal view and character filter functionality.
 
+Demo: https://test.lenz-host.de/Dataset-Viewer/
 
 ![grafik](https://github.com/AsaTyr2018/SimpleWeb/assets/43162495/92e4944a-bb61-4612-b47a-060abcd2d32a)
 ![grafik](https://github.com/AsaTyr2018/SimpleWeb/assets/43162495/bdca2218-c625-450e-b7da-1ec20030e50f)
